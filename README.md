@@ -175,7 +175,7 @@ The Random Forest Classifier is evaluated using:
 
 ## 🙋‍♂️ Author
 
-Built by **Preetham** as an AI/ML project for fraud detection in digital payments.
+Built by **Anupam** as an AI/ML project for fraud detection in digital payments.
 Feel free to ⭐ star the repo if you found it useful!
 
 ---
